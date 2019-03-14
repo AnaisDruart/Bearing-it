@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 98634e5e8d1006e46a1b0ae4555c46cc
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature rideaux lit
+    100002: Armoire
+    100004: //RootNode
+    100006: Chaise00
+    100008: Chaise01
+    100010: "Etag\xE9re"
+    100012: Lit d'hospital
+    100014: Meuble00
+    100016: Rideaux lit
+    100018: Table
+    400000: Armature rideaux lit
+    400002: Armoire
+    400004: //RootNode
+    400006: Chaise00
+    400008: Chaise01
+    400010: "Etag\xE9re"
+    400012: Lit d'hospital
+    400014: Meuble00
+    400016: Rideaux lit
+    400018: Table
+    2100000: No Name
+    2100002: 'Material #25'
+    2300000: Armature rideaux lit
+    2300002: Armoire
+    2300004: Chaise00
+    2300006: Chaise01
+    2300008: "Etag\xE9re"
+    2300010: Lit d'hospital
+    2300012: Meuble00
+    2300014: Rideaux lit
+    2300016: Table
+    3300000: Armature rideaux lit
+    3300002: Armoire
+    3300004: Chaise00
+    3300006: Chaise01
+    3300008: "Etag\xE9re"
+    3300010: Lit d'hospital
+    3300012: Meuble00
+    3300014: Rideaux lit
+    3300016: Table
+    4300000: Lit d'hospital
+    4300002: Meuble00
+    4300004: Armoire
+    4300006: Table
+    4300008: Armature rideaux lit
+    4300010: Rideaux lit
+    4300012: "Etag\xE9re"
+    4300014: Chaise01
+    4300016: Chaise00
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

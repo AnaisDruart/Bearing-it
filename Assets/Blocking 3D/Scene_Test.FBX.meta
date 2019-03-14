@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: a6d634c004e602f4ba2b59b28489346f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature rideaux lit
+    100002: Armoire
+    100004: Bip001
+    100006: Bip001 Footsteps
+    100008: Bip001 Head
+    100010: Bip001 HeadNub
+    100012: Bip001 L Calf
+    100014: Bip001 L Clavicle
+    100016: Bip001 L Finger0
+    100018: Bip001 L Finger0Nub
+    100020: Bip001 L Foot
+    100022: Bip001 L Forearm
+    100024: Bip001 L Hand
+    100026: Bip001 L Thigh
+    100028: Bip001 L Toe0
+    100030: Bip001 L Toe01
+    100032: Bip001 L Toe02
+    100034: Bip001 L Toe0Nub
+    100036: Bip001 L UpperArm
+    100038: Bip001 Neck
+    100040: Bip001 Pelvis
+    100042: Bip001 R Calf
+    100044: Bip001 R Clavicle
+    100046: Bip001 R Finger0
+    100048: Bip001 R Finger0Nub
+    100050: Bip001 R Foot
+    100052: Bip001 R Forearm
+    100054: Bip001 R Hand
+    100056: Bip001 R Thigh
+    100058: Bip001 R Toe0
+    100060: Bip001 R Toe01
+    100062: Bip001 R Toe02
+    100064: Bip001 R Toe0Nub
+    100066: Bip001 R UpperArm
+    100068: Bip001 Spine
+    100070: Bip001 Spine1
+    100072: Bip001 Spine2
+    100074: Bip001 Spine3
+    100076: Bip003
+    100078: Bip003 Footsteps
+    100080: Bip003 Head
+    100082: Bip003 HeadNub
+    100084: Bip003 L Calf
+    100086: Bip003 L Clavicle
+    100088: Bip003 L Finger0
+    100090: Bip003 L Finger0Nub
+    100092: Bip003 L Foot
+    100094: Bip003 L Forearm
+    100096: Bip003 L Hand
+    100098: Bip003 L Thigh
+    100100: Bip003 L Toe0
+    100102: Bip003 L Toe01
+    100104: Bip003 L Toe02
+    100106: Bip003 L Toe0Nub
+    100108: Bip003 L UpperArm
+    100110: Bip003 Neck
+    100112: Bip003 Pelvis
+    100114: Bip003 R Calf
+    100116: Bip003 R Clavicle
+    100118: Bip003 R Finger0
+    100120: Bip003 R Finger0Nub
+    100122: Bip003 R Foot
+    100124: Bip003 R Forearm
+    100126: Bip003 R Hand
+    100128: Bip003 R Thigh
+    100130: Bip003 R Toe0
+    100132: Bip003 R Toe01
+    100134: Bip003 R Toe02
+    100136: Bip003 R Toe0Nub
+    100138: Bip003 R UpperArm
+    100140: Bip003 Spine
+    100142: Bip003 Spine1
+    100144: Bip003 Spine2
+    100146: Bip003 Spine3
+    100148: Bip004
+    100150: Bip004 Footsteps
+    100152: Bip004 Head
+    100154: Bip004 HeadNub
+    100156: Bip004 L Calf
+    100158: Bip004 L Clavicle
+    100160: Bip004 L Finger0
+    100162: Bip004 L Finger0Nub
+    100164: Bip004 L Foot
+    100166: Bip004 L Forearm
+    100168: Bip004 L Hand
+    100170: Bip004 L Thigh
+    100172: Bip004 L Toe0
+    100174: Bip004 L Toe01
+    100176: Bip004 L Toe02
+    100178: Bip004 L Toe0Nub
+    100180: Bip004 L UpperArm
+    100182: Bip004 Neck
+    100184: Bip004 Pelvis
+    100186: Bip004 R Calf
+    100188: Bip004 R Clavicle
+    100190: Bip004 R Finger0
+    100192: Bip004 R Finger0Nub
+    100194: Bip004 R Foot
+    100196: Bip004 R Forearm
+    100198: Bip004 R Hand
+    100200: Bip004 R Thigh
+    100202: Bip004 R Toe0
+    100204: Bip004 R Toe01
+    100206: Bip004 R Toe02
+    100208: Bip004 R Toe0Nub
+    100210: Bip004 R UpperArm
+    100212: Bip004 Spine
+    100214: Bip004 Spine1
+    100216: Bip004 Spine2
+    100218: Bip004 Spine3
+    100220: "Caisse de m\xE9dicament "
+    100222: "Caisse de m\xE9doc tirroire bas"
+    100224: "Caisse de m\xE9doc tirroire haut"
+    100226: Calpin
+    100228: Chaise00
+    100230: Chaise01
+    100232: Chambre
+    100234: "Etag\xE9re"
+    100236: Lit d'hospital
+    100238: Meuble00
+    100240: Meuble01
+    100242: Objet random 1
+    100244: Papillon
+    100246: 'Pile de serviettes '
+    100248: 'Pot de fleur '
+    100250: Rideaux lit
+    100252: 'Robinet '
+    100254: //RootNode
+    100256: Table
+    100258: Tampon/Souvenir
+    400000: Armature rideaux lit
+    400002: Armoire
+    400004: Bip001
+    400006: Bip001 Footsteps
+    400008: Bip001 Head
+    400010: Bip001 HeadNub
+    400012: Bip001 L Calf
+    400014: Bip001 L Clavicle
+    400016: Bip001 L Finger0
+    400018: Bip001 L Finger0Nub
+    400020: Bip001 L Foot
+    400022: Bip001 L Forearm
+    400024: Bip001 L Hand
+    400026: Bip001 L Thigh
+    400028: Bip001 L Toe0
+    400030: Bip001 L Toe01
+    400032: Bip001 L Toe02
+    400034: Bip001 L Toe0Nub
+    400036: Bip001 L UpperArm
+    400038: Bip001 Neck
+    400040: Bip001 Pelvis
+    400042: Bip001 R Calf
+    400044: Bip001 R Clavicle
+    400046: Bip001 R Finger0
+    400048: Bip001 R Finger0Nub
+    400050: Bip001 R Foot
+    400052: Bip001 R Forearm
+    400054: Bip001 R Hand
+    400056: Bip001 R Thigh
+    400058: Bip001 R Toe0
+    400060: Bip001 R Toe01
+    400062: Bip001 R Toe02
+    400064: Bip001 R Toe0Nub
+    400066: Bip001 R UpperArm
+    400068: Bip001 Spine
+    400070: Bip001 Spine1
+    400072: Bip001 Spine2
+    400074: Bip001 Spine3
+    400076: Bip003
+    400078: Bip003 Footsteps
+    400080: Bip003 Head
+    400082: Bip003 HeadNub
+    400084: Bip003 L Calf
+    400086: Bip003 L Clavicle
+    400088: Bip003 L Finger0
+    400090: Bip003 L Finger0Nub
+    400092: Bip003 L Foot
+    400094: Bip003 L Forearm
+    400096: Bip003 L Hand
+    400098: Bip003 L Thigh
+    400100: Bip003 L Toe0
+    400102: Bip003 L Toe01
+    400104: Bip003 L Toe02
+    400106: Bip003 L Toe0Nub
+    400108: Bip003 L UpperArm
+    400110: Bip003 Neck
+    400112: Bip003 Pelvis
+    400114: Bip003 R Calf
+    400116: Bip003 R Clavicle
+    400118: Bip003 R Finger0
+    400120: Bip003 R Finger0Nub
+    400122: Bip003 R Foot
+    400124: Bip003 R Forearm
+    400126: Bip003 R Hand
+    400128: Bip003 R Thigh
+    400130: Bip003 R Toe0
+    400132: Bip003 R Toe01
+    400134: Bip003 R Toe02
+    400136: Bip003 R Toe0Nub
+    400138: Bip003 R UpperArm
+    400140: Bip003 Spine
+    400142: Bip003 Spine1
+    400144: Bip003 Spine2
+    400146: Bip003 Spine3
+    400148: Bip004
+    400150: Bip004 Footsteps
+    400152: Bip004 Head
+    400154: Bip004 HeadNub
+    400156: Bip004 L Calf
+    400158: Bip004 L Clavicle
+    400160: Bip004 L Finger0
+    400162: Bip004 L Finger0Nub
+    400164: Bip004 L Foot
+    400166: Bip004 L Forearm
+    400168: Bip004 L Hand
+    400170: Bip004 L Thigh
+    400172: Bip004 L Toe0
+    400174: Bip004 L Toe01
+    400176: Bip004 L Toe02
+    400178: Bip004 L Toe0Nub
+    400180: Bip004 L UpperArm
+    400182: Bip004 Neck
+    400184: Bip004 Pelvis
+    400186: Bip004 R Calf
+    400188: Bip004 R Clavicle
+    400190: Bip004 R Finger0
+    400192: Bip004 R Finger0Nub
+    400194: Bip004 R Foot
+    400196: Bip004 R Forearm
+    400198: Bip004 R Hand
+    400200: Bip004 R Thigh
+    400202: Bip004 R Toe0
+    400204: Bip004 R Toe01
+    400206: Bip004 R Toe02
+    400208: Bip004 R Toe0Nub
+    400210: Bip004 R UpperArm
+    400212: Bip004 Spine
+    400214: Bip004 Spine1
+    400216: Bip004 Spine2
+    400218: Bip004 Spine3
+    400220: "Caisse de m\xE9dicament "
+    400222: "Caisse de m\xE9doc tirroire bas"
+    400224: "Caisse de m\xE9doc tirroire haut"
+    400226: Calpin
+    400228: Chaise00
+    400230: Chaise01
+    400232: Chambre
+    400234: "Etag\xE9re"
+    400236: Lit d'hospital
+    400238: Meuble00
+    400240: Meuble01
+    400242: Objet random 1
+    400244: Papillon
+    400246: 'Pile de serviettes '
+    400248: 'Pot de fleur '
+    400250: Rideaux lit
+    400252: 'Robinet '
+    400254: //RootNode
+    400256: Table
+    400258: Tampon/Souvenir
+    2100000: No Name
+    2100002: 'Material #25'
+    2300000: Armature rideaux lit
+    2300002: Armoire
+    2300004: "Caisse de m\xE9dicament "
+    2300006: "Caisse de m\xE9doc tirroire bas"
+    2300008: "Caisse de m\xE9doc tirroire haut"
+    2300010: Calpin
+    2300012: Chaise00
+    2300014: Chaise01
+    2300016: Chambre
+    2300018: "Etag\xE9re"
+    2300020: Lit d'hospital
+    2300022: Meuble00
+    2300024: Meuble01
+    2300026: Objet random 1
+    2300028: Papillon
+    2300030: 'Pile de serviettes '
+    2300032: 'Pot de fleur '
+    2300034: Rideaux lit
+    2300036: 'Robinet '
+    2300038: Table
+    2300040: Tampon/Souvenir
+    3300000: Armature rideaux lit
+    3300002: Armoire
+    3300004: "Caisse de m\xE9dicament "
+    3300006: "Caisse de m\xE9doc tirroire bas"
+    3300008: "Caisse de m\xE9doc tirroire haut"
+    3300010: Calpin
+    3300012: Chaise00
+    3300014: Chaise01
+    3300016: Chambre
+    3300018: "Etag\xE9re"
+    3300020: Lit d'hospital
+    3300022: Meuble00
+    3300024: Meuble01
+    3300026: Objet random 1
+    3300028: Papillon
+    3300030: 'Pile de serviettes '
+    3300032: 'Pot de fleur '
+    3300034: Rideaux lit
+    3300036: 'Robinet '
+    3300038: Table
+    3300040: Tampon/Souvenir
+    4300000: Lit d'hospital
+    4300002: Chambre
+    4300004: Meuble01
+    4300006: Meuble00
+    4300008: Armoire
+    4300010: Table
+    4300012: Armature rideaux lit
+    4300014: Rideaux lit
+    4300016: "Etag\xE9re"
+    4300018: Chaise01
+    4300020: Chaise00
+    4300022: 'Pile de serviettes '
+    4300024: "Caisse de m\xE9dicament "
+    4300026: "Caisse de m\xE9doc tirroire bas"
+    4300028: "Caisse de m\xE9doc tirroire haut"
+    4300030: 'Pot de fleur '
+    4300032: Calpin
+    4300034: Tampon/Souvenir
+    4300036: Papillon
+    4300038: Objet random 1
+    4300040: 'Robinet '
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
